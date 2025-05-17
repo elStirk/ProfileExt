@@ -1,0 +1,4 @@
+name: ProfileExt
+version: '1.0-SNAPSHOT'
+main: net.mytheria.profileExt.ProfileExt
+api-version: '1.21'
